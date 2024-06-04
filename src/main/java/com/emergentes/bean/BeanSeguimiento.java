@@ -34,6 +34,7 @@ public class BeanSeguimiento {
         try {
             jpaEstudiante.edit(e);
         } catch (Exception ex) {
+            //hola
             Logger.getLogger(BeanSeguimiento.class.getName()).log(Level.SEVERE, null, ex);
         }
     }
