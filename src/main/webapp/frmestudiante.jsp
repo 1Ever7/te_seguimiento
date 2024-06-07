@@ -30,8 +30,6 @@
             <input type="submit" value="Guardar" style="margin: 0 auto; display: block; width: 110px;" />
         </form>
         <a href="MainController" class="btn cancel-btn">Cancelar</a>
-        <footer>
-            <p>&copy;DimanMayta</p>
-        </footer>
+      
     </body>
 </html>
