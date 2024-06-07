@@ -11,7 +11,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Seguimiento</title>
-        <link rel="stylesheet" type="text/css" href="css/diman.css">
+        <link rel="stylesheet" type="text/css" href="css/er.css">
     </head>
     <body>
         <%-- Convertir la fecha de nacimiento del estudiante a un formato legible --%>
