@@ -44,8 +44,6 @@
                 </tr>
             </c:forEach>
         </table>
-        <footer>
-            <p>&copy;DimanMayta</p>
-        </footer>
+      
     </body>
 </html>
