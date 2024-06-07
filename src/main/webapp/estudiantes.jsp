@@ -12,7 +12,7 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Seguimiento</title>
-        <link rel="stylesheet" type="text/css" href="css/diman.css">
+        <link rel="stylesheet" type="text/css" href="css/er.css">
     </head>
     <body>
         <h1>Estudiantes</h1>
